@@ -1,5 +1,5 @@
 # Password Generator Starter Code
-Using JavaScript to create a unique password after they choose what they would like it to include. 
+Using JavaScript we created a unique password after the user chooses what to include. 
 
 ## Purpose 
 An employee has access to sensitive data and would lkike to randomly generate a password that meets certain criteria. This way they can create a strong password that provides greater security. 
@@ -14,6 +14,10 @@ Created a website that allows a user to create a new, secure password. The site 
 
 ## Website
 https://mtheofield.github.io/JavaScript-Password-Generator/
+
+## GitHub repository
+https://github.com/mtheofield/JavaScript-Password-Generator
+
 
 Contribution
 Made with Mary Theofield 
