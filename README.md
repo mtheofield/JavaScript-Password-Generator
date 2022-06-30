@@ -13,7 +13,7 @@ Created a website that allows a user to create a new, secure password. The site 
     *JavaScript
 
 ## Website
-
+https://mtheofield.github.io/JavaScript-Password-Generator/
 
 Contribution
 Made with Mary Theofield 
