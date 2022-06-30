@@ -51,7 +51,8 @@ function generatePassword() {
     userChoice = userChoice.concat(lowercaseList)  }
   if (userWantsUppercase === true) {
     userChoice = userChoice.concat(uppercaseList)  }
-
+  if (!userWantsNumbers && !userWantsSymbols && !userWantsLowercase && !userWantsUppercase) {
+    userChoice = alert("You must choose a criteria") }
 
   console.log(userChoice)
   var generatePassword = ""
@@ -62,7 +63,6 @@ function generatePassword() {
   }
   return generatePassword
 }
-
 
 // Write password to the #password input
 function writePassword() {
